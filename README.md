@@ -1,5 +1,3 @@
-# Agent Simulator based on Bayesian IRT Models
-
 # Simulator - Synthetic Data
 ### Agent Based Model (ABM) Simulator based on Item Response Theory (IRT) models
 
