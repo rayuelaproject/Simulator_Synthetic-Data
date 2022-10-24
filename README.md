@@ -1,5 +1,5 @@
 # Simulator - Synthetic Data
-### Agent Based Model (ABM) Simulator based on Item Response Theory (IRT) models
+### Code from *Task 6.1 - Agent-based modelling and synthetic data generation*
 
 
 __Pre-requisites:__
